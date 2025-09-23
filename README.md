@@ -35,13 +35,6 @@ I thrive on building robust APIs, solving complex technical challenges, and coll
 - Implemented secure `/events` Slack command with signature verification for on-demand queries
 - Optimized scraping and deduplication to reduce per-location ingestion time from 2 minutes to 2–3 seconds
 
-
-### 🗂️ Event Scraper Bot  
-**Python, Flask, Slack API, MongoDB, BeautifulSoup**  
-- Developed a Slack-integrated scraper for 500+ Eventbrite listings across five NJ locations  
-- Implemented secure `/events` Slack command with signature verification for on-demand queries  
-- Optimized scraping and deduplication to reduce per-location ingestion time from 2 minutes to 2–3 seconds  
-
 ---
 
 ## 🛠️ Tech Stack
