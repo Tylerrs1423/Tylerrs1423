@@ -31,8 +31,8 @@ I love building robust, scalable backend systems, tackling tough problems, and c
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, C  
-**Frameworks/Libraries:** FastAPI, SQLAlchemy, gRPC, Protobuf, Pydantic, Uvicorn, Starlette  
+**Languages:** Python, Java, C++, HTML, CSS  
+**Frameworks/Libraries:** FastAPI, React SQLAlchemy, gRPC, Protobuf, Pydantic, Uvicorn, Starlette  
 **Databases:** MongoDB, PostgreSQL, Redis, SQLite  
 **Tools/Platforms:** Git, Docker, AWS (EC2, S3)  
 
