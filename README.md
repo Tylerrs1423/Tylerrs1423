@@ -18,7 +18,7 @@ I thrive on building robust APIs, solving complex technical challenges, and coll
 ## 💡 Major Projects
 
 ### 📅 Intelligent Calendar Scheduler  
-**Python, FastAPI, MongoDB, Pydantic**
+**Python, FastAPI, PostgreSQL, Pydantic**
 - Engineered a personalized group scheduling system using multi-factor weighted scoring and greedy algorithms
 - Created dynamic MongoDB schemas for rich event metadata and adaptive priority scheduling
 - Built robust RESTful APIs with strict data validation and complete CRUD support
