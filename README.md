@@ -10,7 +10,7 @@ I thrive on building robust APIs, solving complex technical challenges, and coll
 - 🎓 Rutgers Class of 2028, GPA: 3.61
 - 🏅 Member of Undergraduate Student Alliance of Computer Scientists (USACS)
 - 🤝 10+ team coding events, specializing in data structures and collaborative algorithms
-- 🛠️ Blueprint Backend Fellowship graduate: hands-on full-stack experience with FastAPI, React, JWT Auth, and SQLite
+- 🛠️ Blueprint Backend Fellowship graduate: hands-on full-stack experience with Flask, React, JWT Auth, and PostgreSQL
 - 🚀 Always eager to learn new frameworks and make cloud deployments more efficient
 
 ---
