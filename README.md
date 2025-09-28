@@ -1,48 +1,46 @@
 # Hi there 👋
 
-I'm **Tyler Smith**, a Computer Science student at **Rutgers University** passionate about backend development, cloud infrastructure, and scalable data systems.  
-I thrive on building robust APIs, solving complex technical challenges, and collaborating in fast-moving engineering teams.
+I'm **Tyler Smith**  
+🎓 Computer Science, Rutgers University (Class of 2027)  
+🚀 Backend developer | Cloud infrastructure enthusiast | API specialist
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 Rutgers Class of 2028, GPA: 3.61
-- 🏅 Member of Undergraduate Student Alliance of Computer Scientists (USACS)
-- 🤝 10+ team coding events, specializing in data structures and collaborative algorithms
-- 🛠️ Blueprint Backend Fellowship graduate: hands-on full-stack experience with Flask, React, JWT Auth, and PostgreSQL
-- 🚀 Always eager to learn new frameworks and make cloud deployments more efficient
+- GPA: 3.61, USACS member
+- Blueprint Backend Fellowship graduate (Flask, React, JWT, PostgreSQL)
+- 10+ team hackathons: algorithms, data structures, teamwork
+- Focused on learning new frameworks and optimizing cloud deployments
 
 ---
 
 ## 💡 Major Projects
 
 ### 📅 Intelligent Calendar Scheduler  
-**Python, FastAPI, PostgreSQL, Pydantic**
-- Engineered a personalized group scheduling system using multi-factor weighted scoring and greedy algorithms
-- Created dynamic MongoDB schemas for rich event metadata and adaptive priority scheduling
-- Built robust RESTful APIs with strict data validation and complete CRUD support
+**Tech:** Python, FastAPI, PostgreSQL, Pydantic  
+- Personalized scheduling engine using greedy algorithms and multi-factor scoring  
+- Adaptive event schemas and RESTful API with strict validation
 
 ### 🎵 SyncStop Music Streaming Service  
-**Python, gRPC, Protobuf, Redis, AWS S3, Docker**
-- Designed and deployed a microservice-based music streaming app powered by high-performance gRPC
-- Leveraged Redis for lightning-fast metadata caching and AWS S3 for scalable, secure audio storage
-- Automated deployments with Docker on AWS EC2 for easy horizontal scaling
+**Tech:** Python, gRPC, Protobuf, Redis, AWS S3, Docker  
+- Microservices for music streaming with blazing-fast metadata caching  
+- Secure audio storage (AWS S3), automated Docker deployments on EC2
 
 ### 🗂️ Event Scraper Bot  
-**Python, Flask, Slack API, MongoDB, BeautifulSoup**
-- Developed a Slack-integrated scraper for 500+ Eventbrite listings across five NJ locations
-- Implemented secure `/events` Slack command with signature verification for on-demand queries
-- Optimized scraping and deduplication to reduce per-location ingestion time from 2 minutes to 2–3 seconds
+**Tech:** Python, Flask, Slack API, MongoDB, BeautifulSoup  
+- Slack-integrated bot scraping 500+ weekly NJ events  
+- Signature-verified `/events` Slack command  
+- Ingestion time reduced from 2 min to 2–3 sec
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, Java, C++, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** FastAPI, Flask, React, SQLAlchemy, gRPC, Protobuf, Pydantic, Uvicorn, Starlette, BeautifulSoup
-- **Databases:** MongoDB, PostgreSQL, Redis, SQLite
-- **Tools & Platforms:** Git, Docker, AWS (EC2, S3)
+- **Languages:** Python, Java, C++, JavaScript, HTML, CSS  
+- **Frameworks/Libraries:** FastAPI, Flask, React, SQLAlchemy, gRPC, Protobuf, Pydantic, Uvicorn, Starlette, BeautifulSoup  
+- **Databases:** MongoDB, PostgreSQL, Redis, SQLite  
+- **Platforms/Tools:** Git, Docker, AWS (EC2, S3)
 
 ---
 
@@ -50,8 +48,7 @@ I thrive on building robust APIs, solving complex technical challenges, and coll
 
 - Email: [trs185@scarletmail.rutgers.edu](mailto:trs185@scarletmail.rutgers.edu)
 - LinkedIn: [Tyler Smith](https://linkedin.com/in/tyler-smith-491865339)
-- GitHub: [Tylerrs1423](https://github.com/Tylerrs1423)
 
 ---
 
-🌱 *Always open to new projects, collaborations, and opportunities focused on backend and cloud engineering!*
+🌱 *Keen to collaborate on backend or cloud engineering—let’s build new solutions together!*
