@@ -44,7 +44,7 @@ Explore my system design portfolio showcasing architecture diagrams and high-lev
 - Implemented high-performance gRPC microservice for audio metadata streaming  
 - Leveraged Redis caching to achieve 67 ms retrieval and 99.5% cache hit rate  
 - Deployed Dockerized service on AWS EC2 with S3 presigned URLs for secure audio delivery  
-[GitHub Repository](https://github.com/Tylerrs1423/syncstop)
+[GitHub Repository]([https://github.com/Tylerrs1423/syncstop](https://github.com/Rich-T-kid/BeatBus))
 
 ### 🤖 Event Scraper Bot  
 **Tech:** Python, Flask, MongoDB, BeautifulSoup, Slack API  
