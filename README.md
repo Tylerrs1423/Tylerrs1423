@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm **Tyler Smith**  
-🎓 Computer Science, Rutgers University (Class of 2027)  
+🎓 Computer Science, Rutgers University (Class of 2028)  
 🚀 Backend developer | Cloud infrastructure enthusiast | API specialist
 
 ---
